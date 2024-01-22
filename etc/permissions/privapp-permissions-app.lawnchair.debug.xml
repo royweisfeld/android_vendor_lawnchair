@@ -5,6 +5,11 @@
         <permission name="android.permission.PACKAGE_USAGE_STATS"/>
         <permission name="android.permission.FOREGROUND_SERVICE"/>
         <permission name="com.google.android.apps.nexuslauncher.permission.QSB"/>
+        <permission name="com.kieronquinn.app.smartspacer.permission.ACCESS_SMARTSPACER"/>
+        <permission name="android.permission.READ_CONTACTS"/>
+        <permission name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_HISTORY_BOOKMARKS"/>
+        <permission name="android.permission.WRITE_HISTORY_BOOKMARKS"/>
         <permission name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"/>
         <permission name="android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"/>
         <permission name="android.permission.VIBRATE"/>
@@ -20,6 +25,7 @@
         <permission name="android.permission.MANAGE_ACCESSIBILITY"/>
         <permission name="android.permission.MONITOR_INPUT"/>
         <permission name="android.permission.ALLOW_SLIPPERY_TOUCHES"/>
+        <permission name="android.permission.ACCESS_SHORTCUTS"/>
         <permission name="android.permission.SYSTEM_APPLICATION_OVERLAY"/>
         <permission name="android.permission.CALL_PHONE"/>
         <permission name="android.permission.SET_WALLPAPER"/>
@@ -32,6 +38,8 @@
         <permission name="android.permission.EXPAND_STATUS_BAR"/>
         <permission name="android.permission.ACCESS_RESTRICTED_SETTINGS"/>
         <permission name="android.permission.ROTATE_SURFACE_FLINGER"/>
+        <permission name="android.permission.WAKEUP_SURFACE_FLINGER"/>
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
         <permission name="app.lawnchair.debug.permission.READ_SETTINGS"/>
         <permission name="app.lawnchair.debug.permission.WRITE_SETTINGS"/>
         <permission name="app.lawnchair.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
