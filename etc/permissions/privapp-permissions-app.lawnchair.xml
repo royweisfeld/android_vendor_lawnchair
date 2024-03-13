@@ -46,4 +46,5 @@
         <permission name="app.lawnchair.permission.WRITE_SETTINGS"/>
         <permission name="app.lawnchair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
     </privapp-permissions>
+    <allow-in-power-save package="app.lawnchair" />
 </permissions>
